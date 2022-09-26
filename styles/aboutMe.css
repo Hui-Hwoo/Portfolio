@@ -1,0 +1,68 @@
+body{
+  background-image: url("../images/marshroom.png");
+  background-repeat: no-repeat;
+  background-position: 600px;
+  background-size: 1000px;
+  background-color: black;
+}
+
+li, p{
+  font-size: 30px;
+  color: whitesmoke;
+  margin-left: 100px;
+}
+
+.HuiHu{
+  font: 50px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.HuiHu:hover {
+  color: #fed71a;
+}
+
+.aboutMe{
+  font: 80px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.aboutMe:hover {
+  color: aquamarine;
+}
+
+.query{
+  font: 40px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.keyword{
+  font: 40px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: aquamarine;
+}
+
+/* univeristy */
+.NEU{
+  color: whitesmoke;
+}
+.NEU:hover{
+  color: #ae0101;
+}
+
+.TJU{
+  color: whitesmoke;
+}
+.TJU:hover{
+  color: #01518E;
+}
+
+.NKU{
+  color: whitesmoke;
+}
+.NKU:hover{
+  color: #4D0099;
+}
+

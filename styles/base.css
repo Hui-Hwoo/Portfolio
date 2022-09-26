@@ -1,0 +1,51 @@
+/*element selector*/
+body{
+  background-color: black;
+  background-image: url("../images/littleboy.png");
+  background-repeat: no-repeat;
+  background-position: 90%;
+  background-size: 40%;
+}
+
+p{
+  font-size: 30px;
+  color: whitesmoke;
+  margin-left: 100px;
+}
+
+/*class selector*/
+.HuiHu{
+  font: 150px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.HuiHu:hover {
+  color: #fed71a;
+}
+
+.keyword{
+  font: 40px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.aboutMe{
+  font: 110px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.aboutMe:hover {
+  color: aquamarine;
+}
+
+.findMe{
+  font: 110px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.findMe:hover {
+  color: #ee3f4d;
+}

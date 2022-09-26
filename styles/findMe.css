@@ -1,0 +1,34 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+body{
+  background-color: black;
+  background-image: url("../images/fish.png");
+  background-repeat: no-repeat;
+  background-position: 200px, px;
+  background-size: 900px;
+}
+
+p{
+  font-size: 45px;
+  color: whitesmoke;
+  margin-left: 5%;
+}
+
+
+.findMe{
+  font: 80px sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
+  color: whitesmoke;
+}
+
+.findMe:hover {
+  color: #ee3f4d;
+}
+
+.icon {
+  color: whitesmoke;
+}
+
+.icon:hover{
+  color: #ee3f4d;
+}
+
